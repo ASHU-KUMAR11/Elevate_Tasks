@@ -1,4 +1,5 @@
 Data Cleaning and Validation Steps
+	
 	1.	Freeze Headers:
 	•	The first row containing column headers is frozen for easy navigation of the dataset.
 	2.	Handling Blank Values:
