@@ -1,0 +1,7 @@
+1. Sets are best-saled category and generates about 50% of Total Revenue
+2. Maharashtra is most-revenue generated and contributes 16.7% of total revenue
+3. Some of rows not include any status and looking like missing at random and has quantity zero get removed 
+4.set are best performing in most of states thats why contributing 50%, 
+5. Only Kurta is best performing in pondicherry 
+6. Lakshdweep only has 2 categories western dress and set
+7. Something Unknown or blank category state are generating 6,70,432 rupees revenue may be get unspecified locations
