@@ -1,0 +1,10 @@
+Field,Type,Null,Key,Default,Extra
+"Transaction ID",int,YES,,NULL,
+Date,text,YES,,NULL,
+"Customer ID",text,YES,,NULL,
+Gender,text,YES,,NULL,
+Age,int,YES,,NULL,
+"Product Category",text,YES,,NULL,
+Quantity,int,YES,,NULL,
+"Price per Unit",int,YES,,NULL,
+"Total Amount",int,YES,,NULL,
